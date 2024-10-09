@@ -9,4 +9,4 @@ This project is a clone of the GreenDeen website, created using HTML and Tailwin
 
 Feel free to check it out and provide feedback!
 
-[**Live Demo**](YOUR-LINK-HERE) | [**GitHub Repository**](https://github.com/Javith06/Greenden-Clone.git)
+[**Live Demo**](https://javith06.github.io/Greenden-Clone/) | [**GitHub Repository**](https://github.com/Javith06/Greenden-Clone.git)
